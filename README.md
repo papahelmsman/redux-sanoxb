@@ -1,4 +1,4 @@
-# My Redux Sandox
+# My Redux Sandbox
 
 ## Available Scripts
 
